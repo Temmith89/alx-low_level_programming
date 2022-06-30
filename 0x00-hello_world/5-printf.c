@@ -1,10 +1,21 @@
-#include <stdio.h>
+#include <stdio>
+
+
+
 /
-*main - Entry point
-*Return: Always 0(success)
-*/
-int main (void)
+
+ * main - Entry point
+ *
+ *  * Return: Always 0 (success)
+ *
+ *   */
+
+ int main(void)
+
 {
-printf("with proper grammar, but the outcome is a piece of art,\n");
-return (o);
+
+	printf("with proper grammar, but the outcome is a piece of art,\n");
+
+	return (0);
+
 }
